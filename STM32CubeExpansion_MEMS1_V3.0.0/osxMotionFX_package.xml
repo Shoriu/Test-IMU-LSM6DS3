@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Package DBVersion="1.6.0">
+ <PackDescription Release="OSX_MOTION_FX_V160">
+  <Note  Release="osxMotionFX_Release_Notes.html"/>
+ </PackDescription>
+</Package>
+
